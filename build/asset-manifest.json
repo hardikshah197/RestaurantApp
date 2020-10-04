@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/hardikshah197/RestaurantAppstatic/css/main.67da04d8.chunk.css",
+    "main.js": "/hardikshah197/RestaurantAppstatic/js/main.990c9bb1.chunk.js",
+    "main.js.map": "/hardikshah197/RestaurantAppstatic/js/main.990c9bb1.chunk.js.map",
+    "runtime-main.js": "/hardikshah197/RestaurantAppstatic/js/runtime-main.74950973.js",
+    "runtime-main.js.map": "/hardikshah197/RestaurantAppstatic/js/runtime-main.74950973.js.map",
+    "static/css/2.04109cdd.chunk.css": "/hardikshah197/RestaurantAppstatic/css/2.04109cdd.chunk.css",
+    "static/js/2.69c68e9c.chunk.js": "/hardikshah197/RestaurantAppstatic/js/2.69c68e9c.chunk.js",
+    "static/js/2.69c68e9c.chunk.js.map": "/hardikshah197/RestaurantAppstatic/js/2.69c68e9c.chunk.js.map",
+    "index.html": "/hardikshah197/RestaurantAppindex.html",
+    "precache-manifest.0fd3488c563389219600b68b55bdbcd4.js": "/hardikshah197/RestaurantAppprecache-manifest.0fd3488c563389219600b68b55bdbcd4.js",
+    "service-worker.js": "/hardikshah197/RestaurantAppservice-worker.js",
+    "static/css/2.04109cdd.chunk.css.map": "/hardikshah197/RestaurantAppstatic/css/2.04109cdd.chunk.css.map",
+    "static/css/main.67da04d8.chunk.css.map": "/hardikshah197/RestaurantAppstatic/css/main.67da04d8.chunk.css.map",
+    "static/js/2.69c68e9c.chunk.js.LICENSE.txt": "/hardikshah197/RestaurantAppstatic/js/2.69c68e9c.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/hardikshah197/RestaurantAppstatic/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74950973.js",
+    "static/css/2.04109cdd.chunk.css",
+    "static/js/2.69c68e9c.chunk.js",
+    "static/css/main.67da04d8.chunk.css",
+    "static/js/main.990c9bb1.chunk.js"
+  ]
+}
